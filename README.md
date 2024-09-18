@@ -1,2 +1,2 @@
 # Discord_Clone
-Making Discord Clone wiith MERN stack, SocketIO and webrtc
+Making Discord Clone with MERN stack, SocketIO and webrtc
